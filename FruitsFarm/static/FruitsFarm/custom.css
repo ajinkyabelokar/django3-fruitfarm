@@ -1,0 +1,80 @@
+@media (min-width: 400px) {
+    .element {
+        background: #cccccc;
+    }
+}
+
+@media (min-width: 500px) {
+    .element {
+        background: #888888;
+    }
+}
+
+@media (min-width: 600px) {
+    .element {
+        background: #222222;
+    }
+}
+
+body{
+  background: url(DF4.jpg) no-repeat center center fixed;
+  background-size: cover, contain;
+  background-position: left ;
+}
+
+h1{
+  color: #fff;
+  margin-top: 0%;
+  margin-right: 0;
+  text-align: center;
+  font-size: 100px;
+  letter-spacing: -.05cm;
+  line-height: 1.2cm;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-family: 'Encode Sans SC', sans-serif;
+}
+
+h2{
+  color: #fff;
+  margin-top: 0%;
+  margin-left: 0;
+  text-align: center;
+  font-size: 100px;
+  letter-spacing: -.05cm;
+  line-height: 1.2cm;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-family: 'Encode Sans SC', sans-serif;
+}
+
+h3{
+  color: #fff;
+  margin-top: 0%;
+  margin-left: 0;
+  text-align: center;
+  font-size: 100px;
+  letter-spacing: -.05cm;
+  line-height: 1.2cm;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-family: 'Encode Sans SC', sans-serif;
+}
+
+.nav{
+  font-size: 15px;
+  margin-top: 1%;
+  text-align: center;
+
+  font-family: 'Baloo 2', cursive;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-family: 'Encode Sans SC', sans-serif;
+}
+
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
