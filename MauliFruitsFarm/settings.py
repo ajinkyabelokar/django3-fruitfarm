@@ -120,3 +120,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'static'
+
+try:
+    from .local_settings import *
+except ImportError:
+    print ("looks like no local file")
